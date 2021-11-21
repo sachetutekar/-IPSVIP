@@ -12,7 +12,7 @@ I got to have hands on experience on:
 
 <b>Please drop a message on my social handles if you have any queries or any suggestions. 
 </b>.
-Visit:<a href="https://sachetutekar.wixsite.com/website"> SACHET_UTEKAR</a>or follow SACHET UTEKAR on:
+Visit:<a href="https://sachetutekar.wixsite.com/website"> SACHET_UTEKAR</a> or follow SACHET UTEKAR on:
 <li><a href=
 "https://www.linkedin.com/in/sachetutekar/">LinkedIn</a>
 <li><a href=
