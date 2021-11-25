@@ -9,7 +9,7 @@
 # Fake News Detection Project:
 
 <b>Project idea – Fake news spreads like a wildfire and this is a big issue in this era.
-You can learn how to distinguish fake news from a real one. Hence, created a ML model which will not only just work on this dataset but also on any datasets henceforth which can classify fake & real news.</b>
+You can learn how to distinguish fake news from a real one. Hence, created a ML model which will not only just work on this dataset but also on any datasets henceforth which can classify fake & real news. Hope you like it.</b>
 
 I got to have hands-on experience on:
 <li>Python
