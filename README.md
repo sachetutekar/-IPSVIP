@@ -4,7 +4,7 @@
 
 # Housing Prices Prediction Project:
 
-<b>This Project focuses on the dataset which has house prices of the Boston residual areas. The expense of the house varies according to various factors like crime rate, number of rooms, etc. Hence, creating a ML Model along with appropriate plots and results which involves accuracy of the model as well. Hope you like it.</b>.
+<b>Project idea – This Project focuses on the dataset which has house prices of the Boston residual areas. The expense of the house varies according to various factors like crime rate, number of rooms, etc. Hence, creating a ML Model along with appropriate plots and results which involves accuracy of the model as well. Hope you like it.</b>.
 
 # Fake News Detection Project:
 
