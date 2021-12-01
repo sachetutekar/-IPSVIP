@@ -1,6 +1,6 @@
 # IPSVIP
 
-## <b>Hello everyone! Hope you all are doing good.</b>
+<b>Hello everyone! Hope you all are doing good.</b>
 
 # Housing Prices Prediction Project:
 
