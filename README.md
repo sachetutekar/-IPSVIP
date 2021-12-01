@@ -11,6 +11,11 @@
 <b>Project idea – Fake news spreads like a wildfire and this is a big issue in this era.
 You can learn how to distinguish fake news from a real one. Hence, created a ML model which will not only just work on this dataset but also on any datasets henceforth which can classify fake & real news. Hope you like it.</b>
 
+# Iris Flowers Classification Project:
+
+<b>Project idea – The iris flowers have different species and you can distinguish them based on the length of petals and sepals.
+This is a basic project for machine learning beginners to predict the species of a new iris flower. Hope you like it.</b>
+
 I got to have hands-on experience on:
 <li>Python
 <li>Machine Learning
@@ -18,6 +23,8 @@ I got to have hands-on experience on:
 <li>NLP
 <li>Vectorization
 <li>Model Evaluation Metrics
+<li>Data Visualisation
+<li>K-Means Clustering
 
 <b>Please drop a message on my social handles if you have any queries or any suggestions. 
 </b>
