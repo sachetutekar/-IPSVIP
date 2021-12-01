@@ -16,6 +16,10 @@ You can learn how to distinguish fake news from a real one. Hence, created a ML 
 <b>Project idea – The iris flowers have different species and you can distinguish them based on the length of petals and sepals.
 This is a basic project for machine learning beginners to predict the species of a new iris flower. Hope you like it.</b>
 
+# Loan Prediction using Machine Learning Project:
+
+<b>Project idea – The idea behind this ML project is to build a model that will classify how much loan the user can take. It is based on the user’s marital status, education, number of dependents, and employments. You can build a linear model for this project. Hope you like it.</b>
+
 I got to have hands-on experience on:
 <li>Python
 <li>Machine Learning
@@ -25,6 +29,7 @@ I got to have hands-on experience on:
 <li>Model Evaluation Metrics
 <li>Data Visualisation
 <li>K-Means Clustering
+<li>Random Forest Regression
 
 <b>Please drop a message on my social handles if you have any queries or any suggestions. 
 </b>
