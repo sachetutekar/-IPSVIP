@@ -1,5 +1,5 @@
 # IPSVIP
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sachetutekar&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <b>Hello everyone! Hope you all are doing good.</b>
 
 # Housing Prices Prediction Project:
